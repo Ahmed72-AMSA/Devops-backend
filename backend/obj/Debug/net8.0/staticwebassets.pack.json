@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\developers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\developers.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\0b2393c5-6709-46dc-a753-64afee19b360.jpg",
+      "PackagePath": "staticwebassets\\images\\0b2393c5-6709-46dc-a753-64afee19b360.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\14bf612b-7649-44ab-8c2f-b55c7c8d5350.jpg",
+      "PackagePath": "staticwebassets\\images\\14bf612b-7649-44ab-8c2f-b55c7c8d5350.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\2375b6bb-d80b-4589-8e35-c750072a848a.jpg",
+      "PackagePath": "staticwebassets\\images\\2375b6bb-d80b-4589-8e35-c750072a848a.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\3b05bcef-ea79-4e65-bc7d-9d9e743eb020.jpg",
+      "PackagePath": "staticwebassets\\images\\3b05bcef-ea79-4e65-bc7d-9d9e743eb020.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\3fb03f9a-8ed7-479a-9f24-6606d4123165.jpg",
+      "PackagePath": "staticwebassets\\images\\3fb03f9a-8ed7-479a-9f24-6606d4123165.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\44b5969e-5975-4347-bb59-aab212d25e26.jpg",
+      "PackagePath": "staticwebassets\\images\\44b5969e-5975-4347-bb59-aab212d25e26.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\485025a6-381d-4fe1-897d-b9e49fe4e075.jpg",
+      "PackagePath": "staticwebassets\\images\\485025a6-381d-4fe1-897d-b9e49fe4e075.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\52c33640-aec2-4314-9a81-5061486fdcf9.jpg",
+      "PackagePath": "staticwebassets\\images\\52c33640-aec2-4314-9a81-5061486fdcf9.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\52db58a2-bc64-40ad-b8fb-a9e484da648b.jpg",
+      "PackagePath": "staticwebassets\\images\\52db58a2-bc64-40ad-b8fb-a9e484da648b.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\6a542456-6014-4a2c-85cd-048da5614c87.jpg",
+      "PackagePath": "staticwebassets\\images\\6a542456-6014-4a2c-85cd-048da5614c87.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\6bf031c6-c1af-4837-9a77-5ac99d407893.jpg",
+      "PackagePath": "staticwebassets\\images\\6bf031c6-c1af-4837-9a77-5ac99d407893.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\73af00b1-ce62-45e3-8926-4d0f81b32c85.jpg",
+      "PackagePath": "staticwebassets\\images\\73af00b1-ce62-45e3-8926-4d0f81b32c85.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\7e3f020b-5c4c-44d8-b507-a2ef8cbc4a9e.jpg",
+      "PackagePath": "staticwebassets\\images\\7e3f020b-5c4c-44d8-b507-a2ef8cbc4a9e.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\91343cc9-d28a-47b8-b2fd-838262ae467c.jpg",
+      "PackagePath": "staticwebassets\\images\\91343cc9-d28a-47b8-b2fd-838262ae467c.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\a37a3c6e-5cdc-4a93-992a-fbc1fb8712b8.jpg",
+      "PackagePath": "staticwebassets\\images\\a37a3c6e-5cdc-4a93-992a-fbc1fb8712b8.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\a83b1dc4-5267-481f-b07f-e63daf2305ed.jpg",
+      "PackagePath": "staticwebassets\\images\\a83b1dc4-5267-481f-b07f-e63daf2305ed.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\b4cffc94-b94d-4498-8404-b71b7212a068.jpg",
+      "PackagePath": "staticwebassets\\images\\b4cffc94-b94d-4498-8404-b71b7212a068.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\cd094953-32a5-4f1e-a6be-1b6048eade97.jpg",
+      "PackagePath": "staticwebassets\\images\\cd094953-32a5-4f1e-a6be-1b6048eade97.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\d3fb9b65-8b9d-42c7-9cb5-696f641c0847.jpg",
+      "PackagePath": "staticwebassets\\images\\d3fb9b65-8b9d-42c7-9cb5-696f641c0847.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\dac10855-78a5-4000-b04f-8ef31a6f6c6a.jpg",
+      "PackagePath": "staticwebassets\\images\\dac10855-78a5-4000-b04f-8ef31a6f6c6a.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\e5716a38-3bcc-4e5f-8f09-7b970680efde.jpg",
+      "PackagePath": "staticwebassets\\images\\e5716a38-3bcc-4e5f-8f09-7b970680efde.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\e5b57615-ff40-42b6-bf0c-8df1320c767d.jpg",
+      "PackagePath": "staticwebassets\\images\\e5b57615-ff40-42b6-bf0c-8df1320c767d.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\f070da8f-c07e-4dec-a6e3-7fb70db954d4.jpg",
+      "PackagePath": "staticwebassets\\images\\f070da8f-c07e-4dec-a6e3-7fb70db954d4.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\f8e64f09-f0d3-43d5-8785-0e815fbb0e04.jpg",
+      "PackagePath": "staticwebassets\\images\\f8e64f09-f0d3-43d5-8785-0e815fbb0e04.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\fd7ab379-bcb0-4e1f-990d-64ab80ee5c7c.jpg",
+      "PackagePath": "staticwebassets\\images\\fd7ab379-bcb0-4e1f-990d-64ab80ee5c7c.jpg"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\images\\graphic-designer-digital-avatar-generative-ai_934475-9292.avif",
+      "PackagePath": "staticwebassets\\images\\graphic-designer-digital-avatar-generative-ai_934475-9292.avif"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\uploads\\06c04e65-774e-4652-a1b6-6b67a45d69dc.pdf",
+      "PackagePath": "staticwebassets\\uploads\\06c04e65-774e-4652-a1b6-6b67a45d69dc.pdf"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\uploads\\0c7e5d9a-dcb3-46a5-ba74-a3760f4d0eef.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0c7e5d9a-dcb3-46a5-ba74-a3760f4d0eef.pdf"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\uploads\\0e2070af-6f29-4308-84ec-f3b62a553c8d.pdf",
+      "PackagePath": "staticwebassets\\uploads\\0e2070af-6f29-4308-84ec-f3b62a553c8d.pdf"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\uploads\\4d3517b1-799a-45d8-8a84-6935ff134a81.pdf",
+      "PackagePath": "staticwebassets\\uploads\\4d3517b1-799a-45d8-8a84-6935ff134a81.pdf"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\uploads\\5d52263d-24d7-4904-9b21-68a3167cfa26.pdf",
+      "PackagePath": "staticwebassets\\uploads\\5d52263d-24d7-4904-9b21-68a3167cfa26.pdf"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\uploads\\78c87e58-61c1-4d22-b4a0-a4026b711a78.pdf",
+      "PackagePath": "staticwebassets\\uploads\\78c87e58-61c1-4d22-b4a0-a4026b711a78.pdf"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\uploads\\bbd09e13-fb70-4e63-9563-fe4c05940692.pdf",
+      "PackagePath": "staticwebassets\\uploads\\bbd09e13-fb70-4e63-9563-fe4c05940692.pdf"
+    },
+    {
+      "Id": "D:\\studying section\\Projects\\IA\\Devops-developers\\developers\\wwwroot\\uploads\\f883bb22-da83-4683-9d98-7ebbd10dd82e.pdf",
+      "PackagePath": "staticwebassets\\uploads\\f883bb22-da83-4683-9d98-7ebbd10dd82e.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.developers.props",
+      "PackagePath": "build\\developers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.developers.props",
+      "PackagePath": "buildMultiTargeting\\developers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.developers.props",
+      "PackagePath": "buildTransitive\\developers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.developers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
